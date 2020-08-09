@@ -1,11 +1,11 @@
 # Site settings
 author: Javier Aguilar
-title: 
+title: #Changing Careers 
 header-img: img/home-bg.png
 email: coyote176@msn.com
 copyright_name: Javier Aguilar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  “What if?”
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  coyote176-10-12
